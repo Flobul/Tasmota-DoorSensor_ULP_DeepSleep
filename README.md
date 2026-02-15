@@ -10,7 +10,6 @@ Berry script for ESP32/Tasmota:
 ### Prerequisites:
    - ESP32 with Tasmota installed
    - Berry activated
-   - (optional) Tasmota [Mi32-battery version](https://github.com/Jason2866/Tasmota-specials/tree/firmware/firmware/tasmota32/other) (file end with *-battery.bin) 
 
 ### Module installation:
 
